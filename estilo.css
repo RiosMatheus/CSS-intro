@@ -1,0 +1,25 @@
+p {
+    color: darkgreen;
+    font-size: 10px;
+}
+h1 {
+  color:red;
+}
+li {
+  color:blue;
+}
+#fulano, #ia{
+  color: orange;
+}
+li.fruta{
+  background-color: green;
+}
+li.vegetal{
+  background-color: orange;
+}
+li.roupa{
+  background-color: lightgrey;
+}
+.emFalta{
+  text-decoration: line-through;
+}
